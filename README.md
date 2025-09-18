@@ -1,2 +1,2 @@
 # Zomato
-Zomato-Lifecycle
+Zomato-App-Lifecycle
